@@ -15,3 +15,7 @@ body{
 .container{
     flex: 1;
 }
+
+.custom-shadow {
+  box-shadow: 0 4px 20px rgba(255, 242, 2, 0.895); /* x y blur color */
+}
